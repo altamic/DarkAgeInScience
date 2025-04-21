@@ -1,6 +1,6 @@
 # The _current_ Dark Age in Science
 
-An introductory presentation I’ve prepared for a talk in a Philosophy Forum --for which I've been somehow invited.
+An [introductory presentation](DarkAgeInScience.pdf) I’ve prepared for a talk in a Philosophy Forum --for which I've been somehow invited.
 
 
 ## Topic
